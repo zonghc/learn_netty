@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/netty-echo-bio/pom.xml" />
         <option value="$PROJECT_DIR$/netty-echo-util/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-echo-nio/pom.xml" />
       </list>
     </option>
   </component>

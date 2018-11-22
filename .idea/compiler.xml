@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="netty-echo-bio" />
+        <module name="netty-echo-nio" />
         <module name="netty-echo-util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="netty-echo-bio" target="1.8" />
+      <module name="netty-echo-nio" target="1.8" />
       <module name="netty-echo-util" target="1.8" />
     </bytecodeTargetLevel>
   </component>

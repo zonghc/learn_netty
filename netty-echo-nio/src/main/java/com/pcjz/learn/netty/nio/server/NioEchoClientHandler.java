@@ -1,13 +1,8 @@
 package com.pcjz.learn.netty.nio.server;
 
 import java.io.IOException;
-import java.io.PrintStream;
-import java.net.ServerSocket;
-import java.net.Socket;
-import java.nio.Buffer;
 import java.nio.ByteBuffer;
 import java.nio.channels.SocketChannel;
-import java.util.Scanner;
 import java.util.UUID;
 
 /**

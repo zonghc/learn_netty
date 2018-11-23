@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/netty-echo-aio/netty-echo-aio.iml" filepath="$PROJECT_DIR$/netty-echo-aio/netty-echo-aio.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-echo-bio/netty-echo-bio.iml" filepath="$PROJECT_DIR$/netty-echo-bio/netty-echo-bio.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-echo-nio/netty-echo-nio.iml" filepath="$PROJECT_DIR$/netty-echo-nio/netty-echo-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-echo-util/netty-echo-util.iml" filepath="$PROJECT_DIR$/netty-echo-util/netty-echo-util.iml" />
